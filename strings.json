@@ -1,0 +1,4 @@
+{
+    "BotNotInVoiceChannel" : ":x: Je ne suis pas connecté à un salon vocal. Tape `-join` pour m'ajouter", 
+    "UserNotInVoiceChannel" : ":x: Tu dois etre un salon vocal pour pouvoir utiliser cette commande."
+}
